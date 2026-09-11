@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Pessoas",
+  "description": "Sistema completo de Gestão de Pessoas, Feedbacks, Tarefas e Reuniões por Setores (Comercial, Marketing e Site).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
